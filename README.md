@@ -2,8 +2,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AzureHanChen&show_icons=true&hide_title=true" />
 
 ### 个人介绍
-- 一名误入歧途(*考古专业*)的沙袋学子
-- 目前在中心校区(济南)摸鱼,欢迎来齐园蹭饭(
+- 一位沙袋学子，欢迎来齐园蹭饭（
+- 会制造垃圾代码，什么都沾但什么都不太会（逃
 
 ### 联系我
 - 邮箱 **azurehanchen@163.com**
